@@ -35,7 +35,7 @@
   <a href="#sparkles-Características">Características</a> &#xa0; | &#xa0;
   <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-Acesso">Acesso</a> &#xa0; | &#xa0;
   <a href="#memo-Licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Autor</a>
 </p>
@@ -69,7 +69,7 @@ As ferramentas utilizadas nesse projeto foram:
 
 Para acessar basta vocÊ clicar no link do deploy.
 
-## :checkered_flag: Link de acesso
+## :checkered_flag: Acesso
 
 Clique no link abaixo para acessar a landing page.
 
