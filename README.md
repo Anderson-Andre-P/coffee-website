@@ -30,13 +30,13 @@
 </p>
 
 <p align="center">
-  <a href="#link-demo">Demonstração</a> &#xa0; | &#xa0; 
-  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Características</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#link-Demonstração">Demonstração</a> &#xa0; | &#xa0; 
+  <a href="#dart-Sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-Características">Características</a> &#xa0; | &#xa0;
+  <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">Licença</a> &#xa0; | &#xa0;
+  <a href="#memo-Licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Autor</a>
 </p>
 
